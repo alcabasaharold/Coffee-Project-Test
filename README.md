@@ -42,22 +42,16 @@ After analyzing the data, the recommended top three cities for new store opening
 
 City 1: Pune
 	1. It has the highest total sales (1258290)
-	
 	2. It has the highest average sale per costumer (24197.88)
-	
 	3. The average rent is below 300
 	
 City 2: Chennai
 	1. It has the 2nd highest total sales (944120)
-	
 	2. It has the 2nd highest average sale per costumer (17100)
-	
 	3. The average rent is below 500
 	
 City 3: Delhi
 	1. It has the highest estimated consumer (7.7500 million)
-	
 	2. It has a good total sales (750420)
-	
 	3. The average rent is below 400
 */
