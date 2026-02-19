@@ -57,4 +57,3 @@ City 3: Delhi
 	1. It has the highest estimated consumer (7.7500 million)
 	2. It has a good total sales (750420)
 	3. The average rent is below 400
-*/
