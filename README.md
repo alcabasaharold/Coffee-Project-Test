@@ -57,3 +57,11 @@ City 3: Delhi
 	1. It has the highest estimated consumer (7.7500 million)
 	2. It has a good total sales (750420)
 	3. The average rent is below 400
+
+## Acknowledgment
+
+This project is inspired by the tutorial:  
+Data Analyst SQL Project Beginners Solve Real Business Problems PostgreSQL & MySQL Datasets #08/10 by Zero Analyst
+
+The analysis was implemented using PostgreSQL as part of my SQL learning journey.
+Tutorial link: https://www.youtube.com/watch?v=ZZEP4ZRnDaU
